@@ -33,3 +33,11 @@ All we ask is that you keep things in _alphabetical order by last name_.
   - **Interests:** Programming (In Rust, maybe a little haskell, C/Java maybe), Skateboarding, Gaming (not as much anymore :( ), Math, Physics
   - **Working On:** [rmpc (semi-active)](https://git.cryptid.cc/lost/rmpc) and [kraken_api (inactive as of now)](https://git.cryptid.cc/lost/kraken_api)
   - **Looking For:** Collaboration on smaller projects, or any project really, just looking for people that enjoy programming and publishing their work under free licenses.
+
+- [Edward Lu] - Computer Science student
+  - **Socials** [Twitter](https://twitter.com/Edward4874), [Instagram](https://www.instagram.com/wmgdioxide/)
+  - **Interests:** Taking things apart, learning about coding, playing video games (Smash Bros, Xenoblade, Yakuza, Zelda, etc), watching anime, biking
+  - **Working On:** Getting used to my new schedule
+  - **Looking For:** Occasional collabs on smaller projects so I can get a sense of how coding in a group works (I'm only a beginner right now)
+  
+  
